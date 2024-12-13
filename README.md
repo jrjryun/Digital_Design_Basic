@@ -3,3 +3,8 @@ VerilogHDL_ASIC_SemiCustom IC_Digital Design
 
 ###2024.12.13
 init project
+
+
+
+
+## Happy X-MAS
